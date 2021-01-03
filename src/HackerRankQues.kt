@@ -1,2 +1,8 @@
-class HackerRankQues {
+
+
+
+
+fun main() {
+
+
 }
