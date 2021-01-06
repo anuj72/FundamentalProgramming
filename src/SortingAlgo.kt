@@ -1,13 +1,32 @@
 
 
 fun main(){
-    var arr= arrayOf(43,1,4,46,0,7,5)
+    var arr= arrayOf(43,1,4,46,0)
    /* var arr= arrayOf(43,1,4,46,6562,7,8,0,99,86)*/
    // bubblesort(arr)
  /* selectionshort(arr)*/
-    insertionshort(arr)
+  /*  insertionshort(arr)*/
+    quickshort(arr)
 
 }
+
+fun quickshort(arr: Array<Int>) {
+   var  index=0
+    var first=arr[0]
+ for(i in 1 until arr.size){
+     if(first<arr[i]){
+
+     }else{
+
+     }
+
+ }
+
+
+}
+
+
+
 
 fun insertionshort(arr: Array<Int>) {
     for(j in 0 until arr.size){
