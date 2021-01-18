@@ -22,7 +22,7 @@
 
 
 
-       var h=10;
+       var h=10
        var m=0
        var angle=(60*h-11*m)/2
        if(angle>180){
