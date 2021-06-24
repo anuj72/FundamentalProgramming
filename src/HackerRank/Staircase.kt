@@ -1,5 +1,5 @@
 package HackerRank
-
+//https://www.hackerrank.com/challenges/staircase
 fun main() {
     var n = 6
     for (i in 0 until n) {

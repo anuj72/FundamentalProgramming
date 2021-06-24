@@ -1,5 +1,5 @@
 package HackerRank
-
+//https://www.hackerrank.com/challenges/compare-the-triplets
 fun main(){
     var a: Array<Int> = arrayOf(17,28,30)
     var b: Array<Int> = arrayOf(99,16,8)

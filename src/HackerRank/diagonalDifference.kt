@@ -1,5 +1,5 @@
 package HackerRank
-
+//https://www.hackerrank.com/challenges/diagonal-difference
 fun main(){
     val even: IntArray = intArrayOf(2, 4, 6)
     val odd: IntArray = intArrayOf(1, 3, 5)

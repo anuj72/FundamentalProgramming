@@ -1,5 +1,6 @@
+package HackerRank
 import java.text.DecimalFormat
-
+//https://www.hackerrank.com/challenges/plus-minus
 
 fun main(){
     var arr= arrayOf(1,1,0,-1,-1)

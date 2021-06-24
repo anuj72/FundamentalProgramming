@@ -2,7 +2,7 @@ package HackerRank
 
 import java.text.SimpleDateFormat
 import java.util.*
-
+//https://www.hackerrank.com/challenges/time-conversion
 
 fun main() {
     var input = "01:00:00PM"

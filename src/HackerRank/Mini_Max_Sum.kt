@@ -1,6 +1,6 @@
 package HackerRank
 import java.math.BigInteger
-
+//https://www.hackerrank.com/challenges/mini-max-sum
 fun main(){
     var arr:Array<Int> = arrayOf(256741038,623958417, 467905213, 714532089, 938071625)
     arr.sort()
