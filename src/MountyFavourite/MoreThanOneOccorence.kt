@@ -22,7 +22,7 @@ fun main() {
     print(farr1)
 
 
-//3rd solution
+   //3rd solution
     val marr = arr.filter { it.windowed(1).filter { it == "a" }.count()>1}
     print(marr)
 
@@ -30,6 +30,11 @@ fun main() {
     //4th solution
     val marr1 = arr.filter { it.count { c -> c == 'a' }>1}
     print(marr1)
+
+
+    //5th solution
+    val marr2 = arr.filter { it.indexOf("a")!=it.lastIndexOf("a") }
+    print(marr2)
 
 
 
