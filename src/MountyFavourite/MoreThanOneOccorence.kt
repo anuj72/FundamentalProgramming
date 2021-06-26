@@ -2,7 +2,7 @@ package MountyFavourite
 
 fun main() {
     //1st solution
-    var arr = arrayOf("anand", "anuj", "abhinandan", "akhil")
+    var arr = arrayOf("anand", "anuj", "abhinandan", "akhil","aman")
     var farr = ArrayList<String>()
     arr.forEach { str1 ->
         var len = str1.count { c -> c == 'a' }
