@@ -37,6 +37,9 @@ fun main() {
     print(marr2)
 
 
+    //6th solution
+    val marr3 = arr.map{it.reversed()}
+    print(marr2)
 
 
 
