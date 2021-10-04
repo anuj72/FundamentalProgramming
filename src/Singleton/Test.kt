@@ -1,3 +1,5 @@
+package Singleton
+
 object test {
 
 

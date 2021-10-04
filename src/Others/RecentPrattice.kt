@@ -55,7 +55,7 @@ print("$a and $b")
 */
 
 
-/*    val s1 = "test"
+/*    val s1 = "Singleton.test"
     val s2 = "ttew"
     var arr1=s1.toCharArray()
     var arr2=s2.toCharArray()
@@ -101,13 +101,13 @@ if(s3.equals(s4)){
 */
 
 /*
-    var i = test.name().hashCode()
+    var i = Singleton.test.name().hashCode()
     print("$i is name")
 
 
     print("\n")
 
-    var j = test.name().hashCode()
+    var j = Singleton.test.name().hashCode()
     print("$j is name")*/
 
 
