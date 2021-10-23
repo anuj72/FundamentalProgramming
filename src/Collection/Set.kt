@@ -10,10 +10,6 @@ data class Person(val name:String,val age:Int,val licance:Boolean=false)
         var snum1=num.toSet().toList()
         var snum2=LinkedHashSet(num).toList()
         var snum3=num.distinct()
-       // print("kkkkkkk"+snum)
-      //  print("kkkkkkk"+snum1)
-       // print("kkkkkkk"+snum2)
-      //  print("kkkkkkk"+snum3)
 
 
 
