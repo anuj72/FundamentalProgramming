@@ -7,9 +7,17 @@ fun main() {
         println("name is $name")
     }
     var mName=  run {
-        if(true) "name" else "jcj"
+        name.reversed()
     }
     println("name is $mName")
+
+
+   var myReverse= name.let {
+        it.reversed()
+    }
+    println(myReverse)
+
+
 
 
 
