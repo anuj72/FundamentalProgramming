@@ -1,14 +1,12 @@
-import java.util.*
-import kotlin.collections.HashMap
+fun main() {
+    var nums= intArrayOf(1,2,3,4,5)
 
-fun main(){
-
-
-
-
-
-
-
+    printVarArgs( *nums)
 }
 
+fun printVarArgs(vararg list: Int) {
+    list.forEach {
+        println("nums are $it")
+    }
+}
 
